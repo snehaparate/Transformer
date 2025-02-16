@@ -2,3 +2,7 @@ The Transformer – a model that uses attention to boost the speed with which th
 
 Jay Alammar Blog to understand Transformer:
 https://jalammar.github.io/illustrated-transformer/
+
+
+Illustrated the "Stanford Sentiment Tree bank task is to predict whether a movie review is positive, negative or neutral."
+check out the jupyter file.
